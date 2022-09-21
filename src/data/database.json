@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Planeta dos macacos",
+        "genre": "action",
+        "year": 2002
+    },
+    {
+        "id": "2",
+        "name": "A origem",
+        "genre": "action",
+        "year": 2018
+    },
+    {
+        "id": "3",
+        "name": "O exorcista",
+        "genre": "horror",
+        "year": 2009
+    },
+    {
+        "id": "4",
+        "name": "Crush",
+        "genre": "romance",
+        "year": 2017
+    },
+    {
+        "id": "5",
+        "name": "Corações Marcados",
+        "genre": "romance",
+        "year": 2011
+    },
+    {
+        "id": "6",
+        "name": "Psicopata Americano",
+        "genre": "suspense",
+        "year": 2004
+    }
+]
